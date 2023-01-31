@@ -1,4 +1,4 @@
-#### NOT made by CPScript, original progect https://github.com/ryo-ma/lazyhub
+#### NOT made by CPScript, original progect = https://github.com/ryo-ma/lazyhub
 ![logo](https://user-images.githubusercontent.com/6661165/78040587-9cc4d000-73aa-11ea-9710-567e714bdf59.png)
 
 # lazyhub
